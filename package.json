@@ -9,7 +9,7 @@
     "chartist": "0.10.1",
     "crypto-js": "^4.0.0",
     "history": "4.9.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "node-sass": "4.12.0",
     "nouislider": "14.0.2",
     "password-hash": "^1.2.2",
